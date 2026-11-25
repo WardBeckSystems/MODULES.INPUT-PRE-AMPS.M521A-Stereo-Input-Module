@@ -1,0 +1,62 @@
+{
+ "code": "M521A",
+ "connector": "RTO-144",
+ "type": "Stereo Input Module",
+ "series": null,
+ "contacts": "22 contacts, 35 contacts (P1)",
+ "verified": null,
+ "derived": true,
+ "variant_of": null,
+ "pins": [
+  {
+   "pin": "20",
+   "signal": "COMMON RETURN FOR THE +/-25 VOLT SUPPLIES",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/INPUT-PRE-AMPS/M521A/MANUALS/1982 - M521A - p16.jpg",
+   "page": 1
+  },
+  {
+   "pin": "22",
+   "signal": "COMMON RETURN FOR THE +/-25 VOLT SUPPLIES",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/INPUT-PRE-AMPS/M521A/MANUALS/1982 - M521A - p16.jpg",
+   "page": 1
+  },
+  {
+   "pin": "35",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/INPUT-PRE-AMPS/M521A/SCHEMATICS/1982 - M521A - 521-02-002 - SOLO TALLY ATT SENSE.jpg",
+   "page": 1
+  },
+  {
+   "pin": "X",
+   "signal": "COMMON RETURN FOR THE +/-25 VOLT SUPPLIES",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/INPUT-PRE-AMPS/M521A/MANUALS/1982 - M521A - p16.jpg",
+   "page": 1
+  }
+ ],
+ "straps": [],
+ "power": [],
+ "sources": [
+  "Modules/INPUT-PRE-AMPS/M521A/MANUALS/1982 - M521A - p16.jpg",
+  "Modules/INPUT-PRE-AMPS/M521A/SCHEMATICS/1982 - M521A - 521-02-002 - SOLO TALLY ATT SENSE.jpg"
+ ]
+}
