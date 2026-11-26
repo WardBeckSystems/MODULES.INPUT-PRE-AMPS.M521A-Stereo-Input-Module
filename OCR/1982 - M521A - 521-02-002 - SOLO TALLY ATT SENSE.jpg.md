@@ -23,7 +23,7 @@ Wiki page: [M521A](../../../../PAGES/M521A.md)
 - **Words (OCR):** 16 in 13 lines: Dutput · LOIES · Kich · RiGHT · 91 · 4.7/10 · TALLY · TALLT · SENSE · WBSS WARO-BeCk bybtems · STEREc INPLT MOLUE · SCHCMATic
 - **Wiring (first pass):** 181 connected wire groups from 1,324 runs; labelled ends: 572 mm → 91; 282 mm → WARO-BeCk bybtems; 125 mm → 91; 59 mm → 4.7/10; 51 mm → 91, 4.7/10
 
-Every curve, box, word and wire group: [1982 - M521A - 521-02-002 - SOLO TALLY ATT SENSE (traced).json](../SCHEMATICS/1982%20-%20M521A%20-%20521-02-002%20-%20SOLO%20TALLY%20ATT%20SENSE%20(traced).json) (the CAD file: `1982 - M521A - 521-02-002 - SOLO TALLY ATT SENSE (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M521A - 521-02-002 - SOLO TALLY ATT SENSE (traced).json](../SCHEMATICS/1982%20-%20M521A%20-%20521-02-002%20-%20SOLO%20TALLY%20ATT%20SENSE%20%28traced%29.json) (the CAD file: `1982 - M521A - 521-02-002 - SOLO TALLY ATT SENSE (traced).dxf`).
 
 ## Full text
 

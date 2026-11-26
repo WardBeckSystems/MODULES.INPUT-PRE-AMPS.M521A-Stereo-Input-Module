@@ -24,7 +24,7 @@ Wiki page: [M521A](../../../../PAGES/M521A.md)
 - **Title block:** (345, 27)–(432, 44) mm: WBS WARD-BECK SYSTEMS
 - **Wiring (first pass):** 110 connected wire groups from 888 runs; labelled ends: 76 mm → 43, 0.fHoo, 4.5735; 60 mm → 43, 0.fHoo, 4.5735; 47 mm → aicht; 30 mm → 43; 19 mm → 43, 0.fHoo
 
-Every curve, box, word and wire group: [1982 - M521A - B 14-075-02-001 - SA14-075 - STEREO PREAMPLIFIER ASSEMBLY - SCHEMATIC (traced).json](../SCHEMATICS/1982%20-%20M521A%20-%20B%2014-075-02-001%20-%20SA14-075%20-%20STEREO%20PREAMPLIFIER%20ASSEMBLY%20-%20SCHEMATIC%20(traced).json) (the CAD file: `1982 - M521A - B 14-075-02-001 - SA14-075 - STEREO PREAMPLIFIER ASSEMBLY - SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M521A - B 14-075-02-001 - SA14-075 - STEREO PREAMPLIFIER ASSEMBLY - SCHEMATIC (traced).json](../SCHEMATICS/1982%20-%20M521A%20-%20B%2014-075-02-001%20-%20SA14-075%20-%20STEREO%20PREAMPLIFIER%20ASSEMBLY%20-%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1982 - M521A - B 14-075-02-001 - SA14-075 - STEREO PREAMPLIFIER ASSEMBLY - SCHEMATIC (traced).dxf`).
 
 ## Full text
 

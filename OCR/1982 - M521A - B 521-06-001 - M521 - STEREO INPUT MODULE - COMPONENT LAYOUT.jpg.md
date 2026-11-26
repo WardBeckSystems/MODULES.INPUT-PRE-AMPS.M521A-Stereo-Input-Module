@@ -20,7 +20,7 @@ Wiki page: [M521A](../../../../PAGES/M521A.md)
 - **Closed boxes:** 18
 - **Dots (junctions):** 3
 
-Every curve, box, word and wire group: [1982 - M521A - B 521-06-001 - M521 - STEREO INPUT MODULE - COMPONENT LAYOUT (traced).json](../SCHEMATICS/1982%20-%20M521A%20-%20B%20521-06-001%20-%20M521%20-%20STEREO%20INPUT%20MODULE%20-%20COMPONENT%20LAYOUT%20(traced).json) (the CAD file: `1982 - M521A - B 521-06-001 - M521 - STEREO INPUT MODULE - COMPONENT LAYOUT (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M521A - B 521-06-001 - M521 - STEREO INPUT MODULE - COMPONENT LAYOUT (traced).json](../SCHEMATICS/1982%20-%20M521A%20-%20B%20521-06-001%20-%20M521%20-%20STEREO%20INPUT%20MODULE%20-%20COMPONENT%20LAYOUT%20%28traced%29.json) (the CAD file: `1982 - M521A - B 521-06-001 - M521 - STEREO INPUT MODULE - COMPONENT LAYOUT (traced).dxf`).
 
 ## Full text
 

@@ -23,7 +23,7 @@ Wiki page: [M521A](../../../../PAGES/M521A.md)
 - **Words (OCR):** 4 in 4 lines: 250 · WBS · STEREO · 521-02-002/1
 - **Wiring (first pass):** 223 connected wire groups from 1,416 runs; labelled ends: 129 mm → WBS; 47 mm → 521-02-002/1; 10 mm → WBS; 8 mm → WBS, STEREO
 
-Every curve, box, word and wire group: [1982 - M521A - 521-02-002 - STEREO INPT MOPULE (traced).json](../SCHEMATICS/1982%20-%20M521A%20-%20521-02-002%20-%20STEREO%20INPT%20MOPULE%20(traced).json) (the CAD file: `1982 - M521A - 521-02-002 - STEREO INPT MOPULE (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M521A - 521-02-002 - STEREO INPT MOPULE (traced).json](../SCHEMATICS/1982%20-%20M521A%20-%20521-02-002%20-%20STEREO%20INPT%20MOPULE%20%28traced%29.json) (the CAD file: `1982 - M521A - 521-02-002 - STEREO INPT MOPULE (traced).dxf`).
 
 ## Full text
 

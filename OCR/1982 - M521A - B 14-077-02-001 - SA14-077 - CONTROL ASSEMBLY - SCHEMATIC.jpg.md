@@ -22,7 +22,7 @@ Wiki page: [M521A](../../../../PAGES/M521A.md)
 - **Dots (junctions):** 1
 - **Wiring (first pass):** 68 connected wire groups from 1,112 runs
 
-Every curve, box, word and wire group: [1982 - M521A - B 14-077-02-001 - SA14-077 - CONTROL ASSEMBLY - SCHEMATIC (traced).json](../SCHEMATICS/1982%20-%20M521A%20-%20B%2014-077-02-001%20-%20SA14-077%20-%20CONTROL%20ASSEMBLY%20-%20SCHEMATIC%20(traced).json) (the CAD file: `1982 - M521A - B 14-077-02-001 - SA14-077 - CONTROL ASSEMBLY - SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M521A - B 14-077-02-001 - SA14-077 - CONTROL ASSEMBLY - SCHEMATIC (traced).json](../SCHEMATICS/1982%20-%20M521A%20-%20B%2014-077-02-001%20-%20SA14-077%20-%20CONTROL%20ASSEMBLY%20-%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1982 - M521A - B 14-077-02-001 - SA14-077 - CONTROL ASSEMBLY - SCHEMATIC (traced).dxf`).
 
 ## Full text
 
