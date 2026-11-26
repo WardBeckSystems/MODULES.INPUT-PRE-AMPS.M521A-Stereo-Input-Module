@@ -1,0 +1,65 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M521A/SCHEMATICS/1982 - M521A - 14-075-06-001 - STEREO PREAMPLIFIER ASSEMBLY COMPONENT LAYOUT.jpg",
+ "version": 1,
+ "trace": "_traces/ba7443f9d361acdd.svg",
+ "sheet": {
+  "number": "14-075-06-001",
+  "title": "Stereo Preamplifier Assembly Component Layout",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 90,
+  "px": [2000, 1414],
+  "mm": [431.8, 305.3],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [1.0, -0.1, 431.8, 286.7],
+ "outlines": {
+  "line": {"rings": 1550, "straight": {"n": 10245, "mm": 11288.4}, "curved": {"n": 3152, "mm": 3171.3}},
+  "text": {"rings": 114, "straight": {"n": 634, "mm": 477.4}, "curved": {"n": 226, "mm": 238.8}}
+ },
+ "circles": [
+  {"c": [277.7, 109.0], "r": 4.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [293.5, 92.6], "r": 3.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [376.3, 134.5], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.6},
+  {"c": [264.9, 107.1], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.6},
+  {"c": [249.2, 107.1], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.6},
+  {"c": [344.9, 134.7], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.7},
+  {"c": [382.2, 202.7], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [406.8, 15.9], "r": 1.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [382.3, 92.6], "r": 1.4, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.4},
+  {"c": [245.9, 96.5], "r": 1.4, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.4},
+  {"c": [380.4, 15.5], "r": 1.2, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.5}
+ ],
+ "boxes": [
+  {"mm": [333.6, 209.6, 336.6, 211.8], "w": 3.0, "h": 2.2, "from": "ring"},
+  {"mm": [305.4, 201.4, 322.8, 208.0], "w": 17.3, "h": 6.5, "from": "ring"},
+  {"mm": [358.0, 201.4, 375.2, 207.9], "w": 17.3, "h": 6.5, "from": "ring"},
+  {"mm": [302.9, 195.2, 325.6, 197.3], "w": 22.7, "h": 2.2, "from": "ring"},
+  {"mm": [355.6, 195.2, 378.0, 197.3], "w": 22.5, "h": 2.2, "from": "ring"},
+  {"mm": [367.9, 191.9, 372.9, 194.7], "w": 5.0, "h": 2.8, "from": "ring"},
+  {"mm": [303.1, 189.3, 325.6, 191.5], "w": 22.5, "h": 2.2, "from": "ring"},
+  {"mm": [367.9, 186.5, 372.9, 188.7], "w": 5.0, "h": 2.2, "from": "ring"},
+  {"mm": [310.0, 160.2, 312.5, 163.4], "w": 2.4, "h": 3.2, "from": "ring"},
+  {"mm": [246.8, 114.0, 252.8, 123.9], "w": 6.0, "h": 9.9, "from": "ring"},
+  {"mm": [294.1, 114.0, 300.1, 123.9], "w": 6.0, "h": 9.9, "from": "ring"},
+  {"mm": [356.9, 113.8, 362.9, 123.9], "w": 6.0, "h": 10.1, "from": "ring"},
+  {"mm": [293.4, 101.4, 295.6, 104.9], "w": 2.2, "h": 3.5, "from": "ring"},
+  {"mm": [296.0, 101.4, 298.2, 104.9], "w": 2.2, "h": 3.5, "from": "ring"},
+  {"mm": [360.8, 34.5, 365.5, 37.8], "w": 4.7, "h": 3.3, "from": "ring"},
+  {"mm": [383.2, 35.2, 386.1, 37.6], "w": 2.9, "h": 2.4, "from": "ring"},
+  {"mm": [386.5, 35.2, 389.5, 37.6], "w": 3.0, "h": 2.4, "from": "ring"}
+ ],
+ "text": {"words": 0, "lines": [], "note": "no OCR words typed in (the sheet was read turned, or no words were found)"},
+ "dots": [{"c": [348.6, 174.7], "r": 0.6, "lines": 0}, {"c": [348.6, 170.6], "r": 0.6, "lines": 0}, {"c": [348.6, 166.5], "r": 0.6, "lines": 0}],
+ "summary": [
+  "- **Sheet:** component layout 14-075-06-001, size B (assumed) 432 × 305 mm, 2000 × 1414 px traced (0.216 mm/px), turned 90°",
+  "- **Ink extent:** 1–432 mm across, 0–287 mm up",
+  "- **Outlines:** line 1,550 rings, 10,245 straight (11,288 mm) / 3,152 curved (3,171 mm); text 114 rings, 634 straight (477 mm) / 226 curved (239 mm)",
+  "- **Circles and arcs:** 11 circles, 0 arcs; largest r 4.4 @ (277.7, 109.0), r 3.9 @ (293.5, 92.6), r 2.1 @ (376.3, 134.5), r 2.1 @ (264.9, 107.1)",
+  "- **Closed boxes:** 17",
+  "- **Dots (junctions):** 3"
+ ]
+}

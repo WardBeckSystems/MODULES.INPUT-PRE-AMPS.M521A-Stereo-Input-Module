@@ -1,0 +1,71 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M521A/SCHEMATICS/1982 - M521A - B 521-06-001 - M521 - STEREO INPUT MODULE - COMPONENT LAYOUT.jpg",
+ "version": 1,
+ "trace": "_traces/5cb1c42d4c2263c1.svg",
+ "sheet": {
+  "number": "521-06-001",
+  "title": "",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 90,
+  "px": [2000, 1414],
+  "mm": [431.8, 305.3],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [-0.1, -0.1, 431.8, 286.7],
+ "outlines": {
+  "line": {"rings": 3096, "straight": {"n": 19679, "mm": 24287.9}, "curved": {"n": 5648, "mm": 5580.7}},
+  "text": {"rings": 437, "straight": {"n": 2513, "mm": 1957.8}, "curved": {"n": 973, "mm": 961.5}}
+ },
+ "circles": [
+  {"c": [232.7, 219.2], "r": 3.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [246.5, 82.7], "r": 3.3, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.4},
+  {"c": [360.6, 83.1], "r": 3.3, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.5},
+  {"c": [58.9, 81.9], "r": 3.2, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.4},
+  {"c": [173.1, 82.4], "r": 3.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [217.8, 173.2], "r": 2.2, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.7},
+  {"c": [223.9, 155.6], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [224.2, 91.2], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [328.7, 160.4], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [329.1, 87.0], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [79.7, 141.1], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [328.8, 155.9], "r": 1.4, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.4},
+  {"c": [223.8, 160.2], "r": 1.4, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.4},
+  {"c": [202.6, 106.2], "r": 1.3, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.4},
+  {"c": [190.7, 156.0], "r": 0.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [355.1, 144.7], "r": 0.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [361.4, 225.0, 367.7, 228.7], "w": 6.3, "h": 3.7, "from": "ring"},
+  {"mm": [328.4, 223.7, 331.4, 225.8], "w": 3.0, "h": 2.2, "from": "ring"},
+  {"mm": [241.2, 223.5, 244.4, 225.6], "w": 3.2, "h": 2.2, "from": "ring"},
+  {"mm": [277.0, 223.5, 280.0, 225.6], "w": 3.0, "h": 2.2, "from": "ring"},
+  {"mm": [152.4, 223.2, 155.7, 225.4], "w": 3.2, "h": 2.2, "from": "ring"},
+  {"mm": [106.0, 222.8, 109.0, 225.0], "w": 3.0, "h": 2.2, "from": "ring"},
+  {"mm": [358.4, 194.3, 370.9, 198.4], "w": 12.5, "h": 4.1, "from": "ring"},
+  {"mm": [186.8, 169.5, 193.0, 179.4], "w": 6.3, "h": 9.9, "from": "ring"},
+  {"mm": [289.7, 147.5, 320.8, 149.8], "w": 31.1, "h": 2.4, "from": "ring"},
+  {"mm": [171.0, 136.7, 177.3, 146.6], "w": 6.3, "h": 9.9, "from": "ring"},
+  {"mm": [115.9, 134.9, 122.2, 145.1], "w": 6.3, "h": 10.1, "from": "ring"},
+  {"mm": [54.2, 134.7, 60.5, 144.9], "w": 6.3, "h": 10.1, "from": "ring"},
+  {"mm": [98.8, 134.9, 105.1, 144.9], "w": 6.3, "h": 9.9, "from": "ring"},
+  {"mm": [202.7, 123.5, 208.8, 133.6], "w": 6.0, "h": 10.1, "from": "ring"},
+  {"mm": [244.0, 94.8, 275.1, 97.2], "w": 31.1, "h": 2.4, "from": "ring"},
+  {"mm": [312.6, 66.1, 314.8, 78.2], "w": 2.2, "h": 12.1, "from": "ring"},
+  {"mm": [354.1, 36.7, 363.6, 39.7], "w": 9.5, "h": 3.0, "from": "ring"},
+  {"mm": [344.6, 12.3, 346.7, 14.9], "w": 2.2, "h": 2.6, "from": "ring"}
+ ],
+ "text": {"words": 0, "lines": [], "note": "no OCR words typed in (the sheet was read turned, or no words were found)"},
+ "dots": [{"c": [246.0, 201.1], "r": 0.6, "lines": 0}, {"c": [162.2, 186.4], "r": 0.5, "lines": 0}, {"c": [224.2, 86.6], "r": 1.1, "lines": 0}],
+ "summary": [
+  "- **Sheet:** component layout 521-06-001, size B (assumed) 432 × 305 mm, 2000 × 1414 px traced (0.216 mm/px), turned 90°",
+  "- **Ink extent:** 0–432 mm across, 0–287 mm up",
+  "- **Outlines:** line 3,096 rings, 19,679 straight (24,288 mm) / 5,648 curved (5,581 mm); text 437 rings, 2,513 straight (1,958 mm) / 973 curved (962 mm)",
+  "- **Circles and arcs:** 16 circles, 0 arcs; largest r 3.5 @ (232.7, 219.2), r 3.3 @ (246.5, 82.7), r 3.3 @ (360.6, 83.1), r 3.2 @ (58.9, 81.9)",
+  "- **Closed boxes:** 18",
+  "- **Dots (junctions):** 3"
+ ]
+}

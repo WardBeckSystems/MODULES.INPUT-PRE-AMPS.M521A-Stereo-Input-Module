@@ -1,0 +1,54 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M521A/SCHEMATICS/1982 - M521A - 14-076-06-001 - STEREO CHANNEL AMPLIFIER COMPONENT LAYOUT.jpg",
+ "version": 1,
+ "trace": "_traces/29f211eb8fb2797d.svg",
+ "sheet": {
+  "number": "14-076-06-001",
+  "title": "Stereo Channel Amplifier Component Layout",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 90,
+  "px": [2000, 1414],
+  "mm": [431.8, 305.3],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [1.5, 0.0, 431.8, 287.1],
+ "outlines": {
+  "line": {"rings": 1174, "straight": {"n": 7323, "mm": 8052.0}, "curved": {"n": 2212, "mm": 2226.6}},
+  "text": {"rings": 204, "straight": {"n": 1287, "mm": 1256.7}, "curved": {"n": 393, "mm": 450.1}}
+ },
+ "circles": [
+  {"c": [252.2, 186.3], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.7},
+  {"c": [256.3, 122.8], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [361.0, 196.1], "r": 1.4, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.5},
+  {"c": [256.2, 196.2], "r": 1.4, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.5}
+ ],
+ "boxes": [
+  {"mm": [240.7, 115.1, 376.8, 204.0], "w": 136.1, "h": 89.0, "from": "ring"},
+  {"mm": [250.7, 140.1, 256.7, 150.1], "w": 6.0, "h": 9.9, "from": "ring"},
+  {"mm": [266.2, 140.1, 272.5, 150.1], "w": 6.3, "h": 9.9, "from": "ring"},
+  {"mm": [297.9, 140.1, 304.0, 150.1], "w": 6.0, "h": 9.9, "from": "ring"},
+  {"mm": [345.0, 140.1, 351.1, 150.1], "w": 6.0, "h": 9.9, "from": "ring"},
+  {"mm": [360.8, 140.1, 366.8, 150.1], "w": 6.0, "h": 9.9, "from": "ring"},
+  {"mm": [318.2, 130.2, 320.4, 133.6], "w": 2.2, "h": 3.5, "from": "ring"},
+  {"mm": [320.8, 130.2, 323.0, 133.6], "w": 2.2, "h": 3.5, "from": "ring"},
+  {"mm": [323.4, 130.2, 325.6, 133.6], "w": 2.2, "h": 3.5, "from": "ring"},
+  {"mm": [339.2, 130.2, 341.3, 133.6], "w": 2.2, "h": 3.5, "from": "ring"},
+  {"mm": [270.7, 120.5, 273.2, 123.7], "w": 2.4, "h": 3.2, "from": "ring"},
+  {"mm": [413.0, 35.6, 415.9, 37.8], "w": 2.9, "h": 2.2, "from": "ring"},
+  {"mm": [351.9, 6.3, 354.3, 9.3], "w": 2.4, "h": 3.0, "from": "ring"}
+ ],
+ "text": {"words": 0, "lines": [], "note": "no OCR words typed in (the sheet was read turned, or no words were found)"},
+ "dots": [{"c": [307.7, 134.9], "r": 0.6, "lines": 0}, {"c": [361.2, 122.7], "r": 1.1, "lines": 0}],
+ "summary": [
+  "- **Sheet:** component layout 14-076-06-001, size B (assumed) 432 × 305 mm, 2000 × 1414 px traced (0.216 mm/px), turned 90°",
+  "- **Ink extent:** 2–432 mm across, 0–287 mm up",
+  "- **Outlines:** line 1,174 rings, 7,323 straight (8,052 mm) / 2,212 curved (2,227 mm); text 204 rings, 1,287 straight (1,257 mm) / 393 curved (450 mm)",
+  "- **Circles and arcs:** 4 circles, 0 arcs; largest r 2.1 @ (252.2, 186.3), r 1.6 @ (256.3, 122.8), r 1.4 @ (361.0, 196.1), r 1.4 @ (256.2, 196.2)",
+  "- **Closed boxes:** 13",
+  "- **Dots (junctions):** 2"
+ ]
+}
