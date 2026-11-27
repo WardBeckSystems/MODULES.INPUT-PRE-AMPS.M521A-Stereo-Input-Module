@@ -1,0 +1,245 @@
+{
+ "module": "M521A",
+ "title": "M521A STEREO INPUT MODULE",
+ "source": {
+  "file": "MANUALS/1982 - M521A - p6.jpg",
+  "page": 1
+ },
+ "ocr_quality": 0.99,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Input sensitivity",
+   "key": "input_sensitivity",
+   "text": "-10 to +10 dBm (ref. 600 ohm source)",
+   "quantities": [
+    {
+     "from": -10,
+     "to": 10,
+     "unit": "dBm"
+    },
+    {
+     "value": 600,
+     "unit": "ohm"
+    }
+   ]
+  },
+  {
+   "name": "Frequency response",
+   "key": "frequency_response",
+   "text": "+/-0.25 dB from 30 Hz to 20 kHz",
+   "quantities": [
+    {
+     "value": 0.25,
+     "unit": "dB",
+     "tolerance": true
+    },
+    {
+     "value": 30,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Noise",
+   "key": "noise",
+   "text": "Greater than 75 to 80 dB signal to noise ratio for input sensitivities of -10 to +10 dBm.",
+   "quantities": [
+    {
+     "from": 75,
+     "to": 80,
+     "unit": "dB"
+    },
+    {
+     "from": -10,
+     "to": 10,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Harmonic distortion",
+   "key": "harmonic_distortion",
+   "text": "Less than 0.25% from 30 Hz to 20 kHz at +24 dBm output levels or less _ Less than 0.1% at kHz at +24 dBm output:",
+   "quantities": [
+    {
+     "value": 0.25,
+     "unit": "%"
+    },
+    {
+     "value": 30,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    },
+    {
+     "value": 24,
+     "unit": "dBm"
+    },
+    {
+     "value": 0.1,
+     "unit": "%"
+    },
+    {
+     "value": 24,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Source impedance",
+   "key": "source_impedance",
+   "text": "600 ohms or less balanced",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Input impedances",
+   "key": "input_impedance",
+   "text": "30,000 ohms or greater",
+   "quantities": [
+    {
+     "value": 30000,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Output impedances",
+   "key": "output_impedance",
+   "text": "Less than 100 ohms at insert and direct outputs Load [mpedances 600 ohms balanced (at insertion point) 5000 ohms balanced (at direct outputs).",
+   "quantities": [
+    {
+     "value": 100,
+     "unit": "ohms"
+    },
+    {
+     "value": 600,
+     "unit": "ohms"
+    },
+    {
+     "value": 5000,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Output levels",
+   "key": "output_level",
+   "text": "dBm nominal, +26 dBm maximum.",
+   "quantities": [
+    {
+     "value": 26,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Channel separation",
+   "key": "channel_separation",
+   "text": "60 dB",
+   "quantities": [
+    {
+     "value": 60,
+     "unit": "dB"
+    }
+   ]
+  },
+  {
+   "name": "Phasing",
+   "key": "phasing",
+   "text": "Low number or numbered terminals of the input pair is in phase with the similar terminals of the output pair"
+  },
+  {
+   "name": "Power requirements",
+   "key": "power_requirement",
+   "text": "+/-25 volts dc, 100 mA nominal, 185 mA maximum. +12 volts dc, 50 mA",
+   "quantities": [
+    {
+     "value": 25,
+     "unit": "volts dc",
+     "tolerance": true
+    },
+    {
+     "value": 100,
+     "unit": "mA"
+    },
+    {
+     "value": 185,
+     "unit": "mA"
+    },
+    {
+     "value": 12,
+     "unit": "volts dc"
+    },
+    {
+     "value": 50,
+     "unit": "mA"
+    }
+   ]
+  },
+  {
+   "name": "Ambient temperature",
+   "key": "ambient_temperature",
+   "text": "to 60 degrees Celsius",
+   "quantities": [
+    {
+     "value": 60,
+     "unit": "degrees Celsius"
+    }
+   ]
+  },
+  {
+   "name": "Dimensions",
+   "key": "dimensions",
+   "text": "1.60\" wide 14.15\" high 6.50\" deep (41 mm 360 mm 165 mm)",
+   "quantities": [
+    {
+     "value": 1.6,
+     "unit": "\""
+    },
+    {
+     "value": 14.15,
+     "unit": "\""
+    },
+    {
+     "value": 6.5,
+     "unit": "\""
+    },
+    {
+     "value": 41,
+     "unit": "mm"
+    },
+    {
+     "value": 360,
+     "unit": "mm"
+    },
+    {
+     "value": 165,
+     "unit": "mm"
+    }
+   ]
+  },
+  {
+   "name": "Weight",
+   "key": "weight",
+   "text": "0z (1.14 kg) net",
+   "quantities": [
+    {
+     "value": 1.14,
+     "unit": "kg"
+    }
+   ]
+  }
+ ]
+}

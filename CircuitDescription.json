@@ -1,0 +1,19 @@
+{
+ "module": "M521A",
+ "source": {
+  "file": "MANUALS/1982 - M521A - p14.jpg",
+  "pages": [
+   1
+  ]
+ },
+ "ocr_quality": 0.96,
+ "read": "OCR of the manual's circuit description; check against the pages",
+ "sections": [
+  {
+   "heading": null,
+   "paragraphs": [
+    "Prefade_Listen prefade signal take off point is prior to the program channel The fed through the PFL select switch Sw3 R63 and R64 switches It is left and right channel signals together_ u3 mixes and sum the prefade Listen signal The balanced output from u3 the is balances C26 and C27 to the mixing resistors R71 and R72 _ coupled through The mix bus output appears on connector P1 pins 33 and 34 _ Program Output The fader booster amplifier outputs from the 5A14-076 Subassembly module direct outputs the balance control and the auxiliary feed the post fade take offs. direct outputs appear at P2 pins and and P2 The left and right and K respectively, which follow the balance control. pins R2 toRS is inserted into the left and right mixer Balance control switch SW4 _ Mixer bus selectors SW5 through to Sw8 bus feeds via the outputs to be assigned to the appropriate stereo allow stereo The mixer bus outputs appear on connector P1 mixer buses. pins to 16 _ bus selector is provided with contact closure which feeds Each mix information to the 5A14-077 Logic Control Subassembly tally Sele The solid state solo switches are fed from the left and right bus following the balance control. Therefore the solo outputs monitoring will follow the operation of the balance control (R2 to R5) 02 along with U1 form solid state switch and buffer FETs 01 and amplifier the solo left channel Similarly Q3 and Q4 with u2 form for solid state switch and buffer amplifier for the solo right the left and right solo miz buses are fed through R43/R44 channel The R61/R62 These bus outputs appear at P1 pins 29 respectively to and 32 _ ' 2 _ _ Auxiliaries M521 has four auxiliary output buses Auxiliaries and feed The buses, while and feed mono buses Each has pre post stereo fade selector, level adjust control and an assignment source selector"
+   ]
+  }
+ ]
+}

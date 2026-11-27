@@ -13,6 +13,41 @@ Ward-Beck Systems M521A, 1982|15. Wiki page: [M521A on WBSps.ca](https://wardbec
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 7 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 39 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+## Specifications
+
+From the technical data sheet: [1982 - M521A - p6.jpg](MANUALS/1982%20-%20M521A%20-%20p6.jpg) page 1 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Input sensitivity** | -10 to +10 dBm (ref. 600 ohm source) |
+| **Frequency response** | +/-0.25 dB from 30 Hz to 20 kHz |
+| **Noise** | Greater than 75 to 80 dB signal to noise ratio for input sensitivities of -10 to +10 dBm. |
+| **Harmonic distortion** | Less than 0.25% from 30 Hz to 20 kHz at +24 dBm output levels or less _ Less than 0.1% at kHz at +24 dBm output: |
+| **Source impedance** | 600 ohms or less balanced |
+| **Input impedances** | 30,000 ohms or greater |
+| **Output impedances** | Less than 100 ohms at insert and direct outputs Load [mpedances 600 ohms balanced (at insertion point) 5000 ohms balanced (at direct outputs). |
+| **Output levels** | dBm nominal, +26 dBm maximum. |
+| **Channel separation** | 60 dB |
+| **Phasing** | Low number or numbered terminals of the input pair is in phase with the similar terminals of the output pair |
+| **Power requirements** | +/-25 volts dc, 100 mA nominal, 185 mA maximum. +12 volts dc, 50 mA |
+| **Ambient temperature** | to 60 degrees Celsius |
+| **Dimensions** | 1.60&quot; wide 14.15&quot; high 6.50&quot; deep (41 mm 360 mm 165 mm) |
+| **Weight** | 0z (1.14 kg) net |
+
+## Circuit description
+
+From [1982 - M521A - p14.jpg](MANUALS/1982%20-%20M521A%20-%20p14.jpg) page 1 (read by OCR; check against the pages). As data: [`CircuitDescription.json`](CircuitDescription.json).
+
+<details><summary>Read it</summary>
+
+Prefade_Listen prefade signal take off point is prior to the program channel The fed through the PFL select switch Sw3 R63 and R64 switches It is left and right channel signals together_ u3 mixes and sum the prefade Listen signal The balanced output from u3 the is balances C26 and C27 to the mixing resistors R71 and R72 _ coupled through The mix bus output appears on connector P1 pins 33 and 34 _ Program Output The fader booster amplifier outputs from the 5A14-076 Subassembly module direct outputs the balance control and the auxiliary feed the post fade take offs. direct outputs appear at P2 pins and and P2 The left and right and K respectively, which follow the balance control. pins R2 toRS is inserted into the left and right mixer Balance control switch SW4 _ Mixer bus selectors SW5 through to Sw8 bus feeds via the outputs to be assigned to the appropriate stereo allow stereo The mixer bus outputs appear on connector P1 mixer buses. pins to 16 _ bus selector is provided with contact closure which feeds Each mix information to the 5A14-077 Logic Control Subassembly tally Sele The solid state solo switches are fed from the left and right bus following the balance control. Therefore the solo outputs monitoring will follow the operation of the balance control (R2 to R5) 02 along with U1 form solid state switch and buffer FETs 01 and amplifier the solo left channel Similarly Q3 and Q4 with u2 form for solid state switch and buffer amplifier for the solo right the left and right solo miz buses are fed through R43/R44 channel The R61/R62 These bus outputs appear at P1 pins 29 respectively to and 32 _ ' 2 _ _ Auxiliaries M521 has four auxiliary output buses Auxiliaries and feed The buses, while and feed mono buses Each has pre post stereo fade selector, level adjust control and an assignment source selector
+
+</details>
+
+<!-- /module data -->
+
 ## Mechanical
 
 _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- drawings), AutoCAD files, each with its `(EXTRACTED).svg` vectors; `<module> - front panel.svg` is the front panel as vectors._
