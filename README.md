@@ -56,6 +56,14 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKZy0xcnpfZ2tuMGs/view?resourcekey=0-Az5ycsMaG35CiabFbwCBAg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKZy0xcnpfZ2tuMGs&resourcekey=0-Az5ycsMaG35CiabFbwCBAg" width="240" alt="1982 - M521A - 521-04-002 - MODULE LAYOUT.jpg"></a><br><sub>1982|15 · 521-04-002 - MODULE LAYOUT · <a href="MECHANICAL/1982%20-%20M521A%20-%20521-04-002%20-%20MODULE%20LAYOUT%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
+## 3-D model
+
+[`MECHANICAL/M521A.stl`](MECHANICAL/M521A.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M521A)
+
+- **Size:** 41 × 360 mm panel, 165 mm deep, 3.2 mm plate (TECHNICAL DATA: 1.60" wide 14.15" high 6.50" deep (41 mm 360 mm 165 mm))
+- **From the drawing:** 6 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M521A - front panel.svg`)
+- Made by `tools/module_models.py` (→ `MECHANICAL/M521A.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
