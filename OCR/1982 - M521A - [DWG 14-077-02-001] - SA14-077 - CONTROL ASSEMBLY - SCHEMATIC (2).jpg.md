@@ -1,5 +1,5 @@
 # 1982 - M521A - B 14-077-02-001 - SA14-077 - CONTROL ASSEMBLY - SCHEMATIC (2).jpg
-Wiki page: [M521A](../../../../PAGES/M521A.md)
+Wiki page: [M521A](../)
 
 
 - **Year:** 1982 (module estimate (month))

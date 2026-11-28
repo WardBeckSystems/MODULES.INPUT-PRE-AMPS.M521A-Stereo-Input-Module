@@ -1,5 +1,5 @@
 # 1982 - M521A - 14-075-06-001 - STEREO PREAMPLIFIER ASSEMBLY COMPONENT LAYOUT.jpg
-Wiki page: [M521A](../../../../PAGES/M521A.md)
+Wiki page: [M521A](../)
 
 
 - **Year:** 1982 (found in this file: "DEC 82")

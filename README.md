@@ -1,6 +1,6 @@
 # M521A Stereo Input Module · Input Pre Amps
 
-Ward-Beck Systems M521A, 1982|15. Wiki page: [M521A on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M521A.html)
+Ward-Beck Systems M521A, 1982|15. Wiki page: [M521A on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M521A-Stereo-Input-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|

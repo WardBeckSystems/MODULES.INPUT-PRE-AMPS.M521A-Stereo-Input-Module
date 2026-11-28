@@ -1,5 +1,5 @@
 # 1982 - M521A - 14-076-06-001 - STEREO CHANNEL AMPLIFIER COMPONENT LAYOUT.jpg
-Wiki page: [M521A](../../../../PAGES/M521A.md)
+Wiki page: [M521A](../)
 
 
 - **Year:** 1982 (module estimate (month))

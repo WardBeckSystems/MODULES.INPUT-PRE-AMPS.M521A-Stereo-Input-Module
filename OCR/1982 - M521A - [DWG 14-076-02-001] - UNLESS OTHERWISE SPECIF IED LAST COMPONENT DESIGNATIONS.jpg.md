@@ -1,5 +1,5 @@
 # 1982 - M521A - 14-076-02-001 - UNLESS OTHERWISE SPECIF IED LAST COMPONENT DESIGNATIONS.jpg
-Wiki page: [M521A](../../../../PAGES/M521A.md)
+Wiki page: [M521A](../)
 
 
 - **Year:** 1982 (module estimate (month))
